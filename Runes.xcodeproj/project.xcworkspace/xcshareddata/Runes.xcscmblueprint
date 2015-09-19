@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0A5C3A6DB1EA9211CEFA5384E9882B4D710699A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0A5C3A6DB1EA9211CEFA5384E9882B4D710699A4" : 0,
+    "82473EF6134CF1B629E3AE91EE9822986E9BAF10" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EC91986B-46CD-48AA-BFBA-3B94F29A2CB9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0A5C3A6DB1EA9211CEFA5384E9882B4D710699A4" : "Runes\/",
+    "82473EF6134CF1B629E3AE91EE9822986E9BAF10" : "..\/.."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Runes",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Runes.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/thoughtbot\/Runes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0A5C3A6DB1EA9211CEFA5384E9882B4D710699A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Nuvyyo\/TabloKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "82473EF6134CF1B629E3AE91EE9822986E9BAF10"
+    }
+  ]
+}
